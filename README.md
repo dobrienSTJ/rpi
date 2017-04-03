@@ -22,3 +22,5 @@ Spins all 4 motors on the GPIO to test your motors are working correctly.
 
 **ultravelocity.py**
 Uses the ultrasonic sensor to measure the velocity (the speed in a direction).
+
+Check **@dobrienstj** for new Python/Rpi Code!
